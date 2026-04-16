@@ -2,7 +2,7 @@
 
 Computational verification for the numerical and structural claims in:
 
-**"Towards the homotopy type of the complex of discrete Morse matchings of Δⁿ"**
+**"The complex of discrete Morse matchings of the $n$-simplex: homotopy types and structural results**
 Nicholas A. Scoville
 
 Every $f$-vector, Euler characteristic, homology group, structural bijection,
