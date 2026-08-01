@@ -18,7 +18,7 @@ from first principles and checked against the paper's claims.
 | §4 (Inclusions) | H_k(M(Δ³), M(∂Δ³)) for all k, LES exactness, rank of inclusion-induced map on H_4 |
 | §5 (n = 3 data) | Every entry of Table 1 (f-vectors, Euler characteristics) and Table 2 (integral homology) for all four complexes M(Δ³), M(∂Δ³), M_P(Δ³), M_P(∂Δ³) |
 | §5.2 (n = 4 data) | Consistency identities: χ = 212,457, χ̃ = 212,456, f(4) = 5·76,025, CJ upper bound |
-| §6 (GM) | Homotopy types GM(Δ³) ≃ GM(∂Δ³) ≃ ⋁³⁹ S⁴, shared 1-skeleton of M and GM, the surjection Z⁹⁹ → Z³⁹ on H_4, and the striking Prop 6.4 result that the link L_i has H̃_3 = H̃_4 = Z² for n = 3 |
+| §6 (GM) | Homotopy types GM(Δ³) ≃ GM(∂Δ³) ≃ ⋁³⁹ S⁴, shared 1-skeleton of M and GM, the surjection Z⁹⁹ → Z³⁹ on H_4, and the Prop 6.4 result that the link L_i has H̃_3 = H̃_4 = Z² for n = 3 |
 
 A total of **51 independent checks**, all of which pass.
 
@@ -78,7 +78,7 @@ and 7.13 × 10⁸ columns.
 ## Acknowledgment
 
 This verification code was developed with substantial assistance from
-Claude Opus 4.6 (Anthropic) as a dialog partner during the paper's
+Claude Opus 4.6 (Anthropic) during the paper's
 development and as an aid in writing and validating the computational
 scripts.
 
